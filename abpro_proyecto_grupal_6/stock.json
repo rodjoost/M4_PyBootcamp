@@ -1,0 +1,34 @@
+{
+    "stock": [
+      {
+        "manzana": {
+          "SKU": 325,
+          "nombre": "manzana",
+          "categoria": "fruta",
+          "proveedor": "proveedor x",
+          "stock": 100,
+          "valor_neto": 100
+        }
+      },
+      {
+        "longaniza": {
+          "SKU": 366,
+          "nombre": "longa",
+          "categoria": "embutido",
+          "proveedor": "proveedor x",
+          "stock": 100,
+          "valor_neto": 600
+        }
+      },
+      {
+        "huevo": {
+          "SKU": 254,
+          "nombre": "huevo",
+          "categoria": "lo mejor",
+          "proveedor": "proveedor z",
+          "stock": 100,
+          "valor_neto": 70
+        }
+      }
+    ]
+  }
